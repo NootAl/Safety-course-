@@ -1,0 +1,52 @@
+Task 4 Job application 
+## أولاً: ترتيب أعلى الصفحة (الترويسة والافتتاحية)
+تبدئين بكتابة معلوماتكِ أنتِ أولاً، ثم معلومات الشخص الذي ترسلين له الرسالة كالتالي:
+```text
+[Your Name]          <- اسمكِ
+[Your Phone Number]  <- رقم جوالكِ
+[Your Email]         <- إيميلكِ
+
+Date: [اليوم/الشهر/السنة]
+To: Site Operations Manager[span_0](end_span)
+Company: Maximus Construction & Infrastructure Services
+Subject: Application for OHS & Maintenance Technician Position
+
+Dear Site Operations Manager,
+
+```
+## ثانياً: كلمات مساعدة لكل فقرة (الكتالوج الخاص بكِ)
+إليكِ الكلمات والعبارات الرسمية التي يمكنكِ استخدامها بدلاً من التكرار، مقسمة حسب كل فقرة:
+### 1. فقرة المقدمة (Introduction)
+هنا تذكرين سبب الكتابة، وأنكِ رأيتِ الإعلان، ومتحمسة للتدريب لأن الوظيفة لا تتطلب خبرة سابقة.
+ * **عبارات للبدء:**
+   * I am writing to express my strong interest in the... (أنا أكتب لأعبر عن اهتمامي القوي بوظيفة...)
+   * I saw your advertisement on the internet and would like to apply... (رأيت إعلانكم على الإنترنت وأود التقديم...)
+   * Although no previous experience is required, I am very eager to undergo full on-the-job training... (رغم أنه لا تشترط خبرة سابقة، إلا أنني متحمسة جداً للخضوع لتدريب كامل أثناء العمل...)
+### 2. فقرة المسؤوليات (Key Responsibilities)
+هنا تأخذين النقاط من النص وتحولينها باستخدام كلمات تدل على قدرتكِ على التنفيذ:
+ * **بدائل احترافية لـ (I can) و (I will):**
+   * I am fully capable of... (أنا قادرة تماماً على...)
+   * I am prepared to support... (أنا مستعدة لدعم/لمساندة...)
+   * I will ensure that... (أنا سوف أضمن أن...)
+   * I can efficiently perform... (أستطيع بكفاءة القيام بـ...)
+ * **طريقة التطبيق (مثال):**
+   * I am fully capable of performing inspections and basic repair on construction tools. (أنا قادرة تماماً على إجراء الفحوصات والإصلاحات الأساسية على أدوات البناء).
+### 3. فقرة المهارات والقدرات (Skills and Abilities)
+هنا تتحدثين عن صفاتكِ الشخصية، ومؤهلاتكِ، واللغة، والكمبيوتر.
+ * **بدائل احترافية لـ (I have):**
+   * I possess excellent... (أنا أمتلك/أتمتع بـ...)
+   * I am proactive in... (أنا مبادرة/نشيطة في...)
+   * My technical background enables me to... (خلفيتي التقنية تمكنني من...)
+   * I have the ability to... (لدي القدرة على...)
+   * I am proficient in... (أنا متقنة/ماهرة في...)
+ * **طريقة التطبيق (مثال):**
+   * I possess excellent written and interpersonal communication skills. (أنا أتمتع بمهارات تواصل كتابية وشخصية ممتازة).
+   * I am proficient in Microsoft Office, which helps me in completing reports. (أنا ماهرة في مايكروسوفت أوفيس، مما يساعدني في إكمال التقارير).
+### 4. فقرة الخاتمة (Conclusion)
+شكر للمدير وإخبارهم بانتظار الرد لإجراء المقابلة.
+ * **عبارات جاهزة:**
+   * Thank you for your time and consideration. (شكراً لوقتكم واهتمامكم).
+   * I look forward to hearing from you soon. (أتطلع لسماع ردكم قريباً).
+   * Sincerely, (وتقبلوا فائق الاحترام).
+   * [Your Name] (اسمكِ).
+
